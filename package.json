@@ -1,0 +1,11 @@
+{
+  "name": "test-tns-web-angular-2",
+  "description": "NativeScript Runtime for a web Angular2 based application.",
+  "version": "0.1.0",
+  "files": [
+    "**/*"
+  ],
+  "publishConfig": {
+    "tag": "next"
+  }
+}
