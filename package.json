@@ -3,7 +3,8 @@
   "description": "NativeScript Runtime for a web Angular2 based application.",
   "version": "0.2.0",
   "files": [
-    "**/*"
+    "**/*",
+    "framework/*"
   ],
   "publishConfig": {
     "tag": "next"
