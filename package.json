@@ -1,7 +1,7 @@
 {
   "name": "test-tns-web-angular-2",
   "description": "NativeScript Runtime for a web Angular2 based application.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "files": [
     "**/*",
     "framework/*"
